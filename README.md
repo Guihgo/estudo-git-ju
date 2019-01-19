@@ -1,7 +1,7 @@
 # Estudo da Ju
 repositório para ajudar a Ju aprender usar git
 
-## Instruções fazer as tarefas: 
+## Instruções: 
 
 1. *Fork* esse repositório para sua conta (**1pt**)
 2. Clone o repositório *forkado* (**2pts**)
