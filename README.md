@@ -5,7 +5,7 @@ repositório para ajudar a Ju aprender usar git
 
 1. *Fork* esse repositório para sua conta (**1pt**)
 2. Clone o repositório *forkado* (**2pts**)
-3. Faça as modificações conforme as [tarefas](https://github.com/Guihgo/estudo-git-ju) pedem (**2pts**)
+3. Faça as modificações conforme as [tarefas](https://github.com/Guihgo/estudo-git-ju#tarefas) pedem (**2pts**)
 4. Atualize seu repositório (**3pts**)
 5. Faça um *pull request* do seu repositório para este (**2pts**)
 
